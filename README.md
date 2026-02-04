@@ -1,76 +1,76 @@
-🛍️ Customer Shopping Behavior Analysis
-📌 Project Overview
+# 🛍️ Customer Shopping Behavior Analysis
+**📌 Project Overview**
 
-This project analyzes customer shopping behavior to uncover insights into purchase patterns, subscription status, product category performance, and age-based trends. Using Python, SQL, and Power BI, raw customer and transaction data is transformed into interactive dashboards that support data-driven business decisions.
+This project analyzes **customer shopping behavior** to uncover insights into **purchase patterns, subscription status, product category performance** and **age-based trends**. Using **Python, SQL, and Power BI**, raw customer and transaction data is transformed into **interactive dashboards** that support **data-driven business** decisions.
 
-🎯 Objectives
+**🎯 Objectives**
 
-Analyze customer purchasing and transaction behavior
+* Analyze customer purchasing and transaction behavior.
 
-Understand the impact of subscription status on sales
+* Understand the impact of **subscription status on sales**.
 
-Identify top-performing product categories
+* Identify **top-performing product categories**.
 
-Analyze revenue and sales trends across age groups
+* Analyze **revenue and sales trends across age groups**.
 
-Enable business users to explore data using interactive filters
+* Enable business users to explore data using **interactive filters**.
 
-🛠️ Tools & Technologies
+**🛠️ Tools & Technologies**
 
-Python – Data cleaning, preprocessing, exploratory data analysis
+* **Python** – Data cleaning, preprocessing, exploratory data analysis
 
-SQL – Data extraction, joins, aggregations, filtering
+* **SQL** – Data extraction, joins, aggregations, filtering
 
-Power BI – Dashboard creation and visual analytics
+* **Power BI** – Dashboard creation and visual analytics
 
-📊 Key Metrics
+**📊 Key Metrics**
 
-Total number of customers
+* Total number of customers
 
-Average purchase amount
+* Average purchase amount
 
-Average customer review rating
+* Average customer review rating
 
-Revenue by category
+* Revenue by category
 
-Sales by category
+* Sales by category
 
 Revenue and sales by age group
 
 Customer distribution by subscription status
 
-📈 Dashboard Features
+**📈 Dashboard Features**
 
-KPI cards for quick insights
+* KPI cards for quick insights
 
-Interactive slicers:
+* Interactive slicers:
 
-Subscription Status
+* Subscription Status
 
-Gender
+* Gender
 
-Product Category
+* Product Category
 
-Shipping Type
+* Shipping Type
 
-Visual analysis of:
+* Visual analysis of:
 
-Revenue & sales by category
+* Revenue & sales by category
 
-Customer percentage by subscription
+* Customer percentage by subscription
 
-Revenue & sales by age group
+* Revenue & sales by age group
 
-✅ Insights & Outcomes
+**✅ Insights & Outcomes**.
 
-Identified high-revenue product categories
+* Identified **high-revenue product categories**.
 
-Analyzed subscriber vs non-subscriber behavior
+* Analyzed **subscriber vs non-subscriber behavior**.
 
-Discovered top-performing age groups
+* Discovered **top-performing age groups**.
 
-Provided actionable insights for sales, marketing, and customer retention strategies
+* Provided actionable insights for **sales, marketing, and customer retention strategies**.
 
-🚀 Conclusion
+**🚀 Conclusion**
 
-This project demonstrates how customer transaction data can be converted into actionable business insights using Python, SQL, and Power BI. It reflects real-world customer analytics and business intelligence use cases relevant to a Data Analyst role.
+This project demonstrates how **customer transaction data** can be converted into **actionable business insights** using **Python, SQL, and Power BI**. It reflects real-world **customer analytics** and **business intelligence** use cases relevant to a **Data Analyst role**.
